@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+nav{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+
+}
+.gra{
+    border: 1px solid blue;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: black;
+}
+img{
+    width: 300px;
+}
