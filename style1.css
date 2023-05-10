@@ -6,3 +6,18 @@ header{
     border: 1px solid white;
     padding: 10px;
 }
+table{
+    border: 1px;
+}
+th{
+    background-color: antiquewhite ;
+    padding: 10px;
+}
+td{
+    background-color: antiquewhite;
+
+}
+footer{
+    border: 1px solid blue;
+    margin: 20px;
+}
